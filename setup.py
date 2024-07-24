@@ -9,7 +9,7 @@ setup(
     name="pipbuilder",
     version="1.0.0",
     author="YELANDAOKONG",
-    author_email="YELANDAOKONG@Github(NotMail)",
+    author_email="YELANDAOKONG@yldk.xyz",
     description="Python PIP Package Builder",
     long_description=long_description,
     long_description_content_type="text/markdown",
