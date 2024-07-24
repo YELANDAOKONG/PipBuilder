@@ -678,3 +678,5 @@ build/
 *.egg-info/
 *.egg
 .eggs/
+.idea/
+.idea/**/
